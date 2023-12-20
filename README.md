@@ -3,7 +3,7 @@
 
 <img width="1000" src="https://github.com/Mangeshgp14/Google-Play-Store-Analysis-for-App-Launch/blob/main/play%20store%20image.jpg" >
 
-<h3>Project Report : <a href="https://docs.google.com/document/d/15R2gVNfvrTDTB8MAAl-fluS0dZMA2ICozahgapz1guE/edit?usp=sharing">Link</a></h3>
+<h3>Project Documentation : <a href="https://docs.google.com/document/d/15R2gVNfvrTDTB8MAAl-fluS0dZMA2ICozahgapz1guE/edit?usp=sharing">Link</a></h3>
 
 <h3>Business Problem</h3>
 <p>
