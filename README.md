@@ -16,7 +16,7 @@ The Key Business Requirements are:
    <li>To build a dashboard to display the findings in terms of charts and also monitor the Play Store as and when the dataset updates.
    </li>
  </ol>
- Apart from these requirements, if our firm can provide some additional insights or suggestions which may prove vital in the product launch, they can surely do so.
+ Apart from these requirements, if our firm can provide some additional insights or suggestions that may prove vital in the app development, they can surely do so.
 </p>
 
 <h3>Tools Used</h3>
