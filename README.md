@@ -30,8 +30,9 @@ The Key Business Requirements are:
 
 <h3>Key Insights</h3>
 <ol>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li>People always prefer free apps but we can see a significant no. of downloads for paid apps as well. So, the client can go for a paid app that can be a good source of revenue.
+</li>
+ <li>In the PAID APP categories, the ‘FAMILY’ category can make the highest revenues with an average revenue of 450 million.</li>
+ <li>So, the client can compromise on the revenues and build an app in the GAMES category, to achieve a good average rating of 4.28.</li>
+ <li>The chart depicting the average size of the apps can help the client find the maximum limit for the size of the app to attract more customers.</li>
 </ol>
