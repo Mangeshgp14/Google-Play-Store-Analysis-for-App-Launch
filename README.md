@@ -23,15 +23,7 @@ The Key Business Requirements are:
 
  <ol>
   <li>
-   Excel: Conditional Statements, Removing Duplicates, Removing Null values
-  </li>
-  <li>
-   Python: SQLAlchemy, Loading Data into MySQL
-  </li><li>
-   SQL: Group By, Joins, Filtering data
-  </li>
-  <li>
-   Power BI:
+   Excel: Data Loading, Data cleaning, Data Analysis, Data visualization
   </li>
  </ol>
  
