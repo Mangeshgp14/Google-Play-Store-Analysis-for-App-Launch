@@ -30,9 +30,12 @@ The Key Business Requirements are:
 
 <h3>Key Insights</h3>
 <ol>
- <li>People always prefer free apps but we can see a significant no. of downloads for paid apps as well. So, the client can go for a paid app that can be a good source of revenue.
+ <li>The client can go for a Free app to reach a wider range of audience. The best category to build an app for free is 'Communication'. For Paid apps the best category is 'Games'.
 </li>
- <li>In the PAID APP categories, the ‘FAMILY’ category can make the highest revenues with an average revenue of 450 million.</li>
- <li>So, the client can compromise on the revenues and build an app in the GAMES category, to achieve a good average rating of 4.28.</li>
- <li>The chart depicting the average size of the apps can help the client find the maximum limit for the size of the app to attract more customers.</li>
+ <li>For free apps the client can opt for ads or a subscription-based model to generate revenue. For the Paid Apps, an average revenue of 28 lakhs can be generated from the Games category.
+ </li>
+ <li>Any app built in the top five categories will get an average rating of 4+.
+ </li>
+ <li>The client can use the size of the app as an important factor in deciding the limit on the app size.
+ </li>
 </ol>
