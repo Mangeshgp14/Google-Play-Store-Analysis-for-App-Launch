@@ -19,7 +19,7 @@ The Key Business Requirements are:
  Apart from these requirements, if our firm can provide some additional insights or suggestions that may prove vital in the app development, they can surely do so.
 </p>
 
-<h3>Tools Used</h3>
+<h3>Tech Stack</h3>
 
  <ol>
   <li>
