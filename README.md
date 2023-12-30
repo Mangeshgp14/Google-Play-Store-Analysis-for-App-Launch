@@ -1,7 +1,7 @@
 <h1 align="center">Google PlayStore Analysis For App Launch </h1>
 
 
-<img width="1000" src="https://github.com/Mangeshgp14/Google-Play-Store-Analysis-for-App-Launch/blob/main/play%20store%20image.jpg" >
+<img width="1000" src="https://github.com/Mangeshgp14/Google-Play-Store-Analysis-for-App-Launch/blob/main/Dashboard%20Image.PNG" >
 
 <h3>Project Report : <a href="https://docs.google.com/document/d/15R2gVNfvrTDTB8MAAl-fluS0dZMA2ICozahgapz1guE/edit?usp=sharing">Link</a></h3>
 
